@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toiaduraes&label=Profile%20views&color=0e75b6&style=flat" alt="toiaduraes" /> </p>
 
-- 🔭 Neste perfil estou publicando algumas **atividades da faculdade.**
+- 🔭 Neste perfil estou publicando algumas **atividades da faculdade e trabalho freelancer.**
 
 - 🌱 Paralelamente, em outros repositórios, também estou exercitando **Banco de dados SQL, HTML5 e SCRUM.**
 
